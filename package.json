@@ -1,0 +1,31 @@
+{
+  "name": "@test/simple-template",
+  "version": "1.0.15",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utilcode/simple-template.git"
+  },
+  "dependencies": {
+    "@libphamton/api-chatbot": "^1.0.1",
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/api-openai": "^1.0.3",
+    "@libphamton/chatfanpage": "^1.0.1",
+    "@libphamton/fb-group": "^1.0.0",
+    "@npmtea2024/urban-enigma": "^1.0.1",
+    "@npmtea2024/ideal-pancake": "^1.0.2",
+    "@npmtea2024/quasi-nisi-doloremque-fugit": "^1.0.6",
+    "@npmtea2024/ullam-harum-debitis-cumque": "^1.0.6",
+    "@libtommy2024/sapiente-quis-neque-aliquid": "^1.0.0",
+    "@libtommy2024/similique-quos-natus-explicabo": "^1.0.0",
+    "@libtommy2024/totam-possimus-quod-tempora": "^1.0.0",
+    "@libtommy2024/ubiquitous-rotary-phone": "^1.0.0",
+    "@libtommy2024/unde-occaecati-ab-hic": "^1.0.0"
+  }
+}
